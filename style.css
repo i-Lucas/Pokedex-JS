@@ -34,15 +34,15 @@ h1 {
 
 .card::after {
 	content: "";
-  display: block;
-  width: 50%;
-  height: 45%;
-  border-radius: 100%;
-  background-color: #fff;
-  opacity: .7;
-  position: absolute;
-  top: 15%;
-  left: 25%;
+	display: block;
+	width: 50%;
+	height: 45%;
+	border-radius: 100%;
+	background-color: #fff;
+	opacity: .7;
+	position: absolute;
+	top: 15%;
+	left: 25%;
 }
 
 .steel {
@@ -134,16 +134,18 @@ h1 {
 
 @keyframes bounce {
 	20% {
-			transform: translateY(-6px);
+		transform: translateY(-6px);
 	}
+
 	40% {
-			transform: translateY(0px);
+		transform: translateY(0px);
 	}
 
 	80% {
-			transform: translateY(-2px);
+		transform: translateY(-2px);
 	}
+
 	100% {
-			transform: translateY(0);
+		transform: translateY(0);
 	}
 }
