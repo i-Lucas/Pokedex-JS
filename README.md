@@ -11,6 +11,8 @@ a simple pokedex system using javascript
 - implementing the information in the application
 - refactoring the code and separating responsibilities
 - added picture project
-
+- 
+see the app online :
+https://18y31.csb.app/
 
 ![alt text](https://github.com/i-Lucas/Pokedex-JS/blob/main/img/1.png)
